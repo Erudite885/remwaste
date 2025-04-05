@@ -106,7 +106,7 @@ The layout uses **Material UI** for styling and responsiveness. The grid system 
 
 ## Demo
 
-You can view the live demo of the project here: [Insert Sandbox Link]
+You can view the live demo of the project here: [Skip Selection Redesign Demo](https://remwaste-six.vercel.app/)
 
 ## Conclusion
 This project was a fun and challenging opportunity to showcase my front-end development skills, particularly in React, UI/UX design, and responsiveness.
